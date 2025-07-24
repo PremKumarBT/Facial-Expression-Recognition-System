@@ -6,5 +6,3 @@ To test or try the project need to have python 3.10.9 and use VS Code editor.
 Need to Download all the nessary Modules and packages CV2 and FER inorder to run properly.
 
 The output will be in the form of live video which is captured from camera and will be live reaction of angry, happiness, sad, fear, disgust, netural and surprise.
-
-Check the videos and images attached.
